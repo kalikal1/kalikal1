@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kalkidan Belayneh</h1>
-<h3 align="center">A passionate fullstack developer from Ethiopia</h3>
+<h3 align="center">A tech-passionate Computer Science Graduate from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalikal1&label=Profile%20views&color=0e75b6&style=flat" alt="kalikal1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **react-native**
 
 - 📫 How to reach me **kalkidantiru14@gmail.com**
 
