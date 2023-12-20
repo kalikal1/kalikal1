@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalkidan Belayneh</h1>
 <h3 align="center">A tech-passionate Computer Science Graduate from Ethiopia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalikal1&label=Profile%20views&color=0e75b6&style=flat" alt="kalikal1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kalkidan debas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalkidan debas" height="30" width="40" /></a>
-<a href="https://fb.com/kal kidan tiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kal kidan tiru" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kalkidan-t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kalkidan-t" height="30" width="40" /></a>
 </p>
 
